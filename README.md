@@ -3,8 +3,8 @@ coffee-bytebuffers
 
 Byte buffer classes and functions in CoffeeScript.
 
-* ByteBuffer fitted for JavaScript protocol machines
-* SparseBuffer
+* ByteBuffer fitted for JavaScript protocol machines. Example at http://blog.spotifyontheweb.com/53877198.
+* SparseBuffer allowing cheap allocation of buffers that are only populated in certain ranges. 
 
 ### License ###
 	Copyright 2011 Emiel Mols. All rights reserved.
